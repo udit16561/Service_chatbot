@@ -1,0 +1,8 @@
+tkinter
+ntlk
+pickle
+pandas
+numpy
+tensorflow
+tkinter
+webbrowser
